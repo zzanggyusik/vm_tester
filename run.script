@@ -1,0 +1,4 @@
+#!/bin/bash
+cd docker_practice
+git pull
+python3 test.py
